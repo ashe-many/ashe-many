@@ -1,4 +1,4 @@
-# 🆕 New work, new commits — November 2026
+# 🆕 Fresh drop
 
 ### 🔬 I removed 75% of what a vision model sees. It still answers correctly. Why?
 

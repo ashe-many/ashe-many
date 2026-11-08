@@ -1,4 +1,4 @@
-# 🚀 Just dropped
+# 🔥 Just landed 🔥
 
 ### 🔬 I removed 75% of what a vision model sees. It still answers correctly. Why?
 
